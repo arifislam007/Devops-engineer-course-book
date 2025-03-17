@@ -1,7 +1,3 @@
-Certainly! Here it is again:
-
----
-
 ### 1. Preface and Introduction
 
 **Introduction to the Course**
