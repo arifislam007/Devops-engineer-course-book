@@ -119,7 +119,3 @@ In this chapter, we explored:
 ✔ **CloudFront CDN for accelerating content delivery**.  
 ✔ **Hands-on labs for setting up AWS networking services**.  
 
----
-
-## **Next Steps**  
-👉 Proceed to **Chapter 4: AWS Storage Services**, where you will learn about **S3, EBS, and EFS** for cloud storage solutions! 🚀
