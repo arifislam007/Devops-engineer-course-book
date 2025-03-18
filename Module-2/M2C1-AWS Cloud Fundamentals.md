@@ -128,8 +128,3 @@ In this chapter, you learned:
 ✔ How to use the **AWS Free Tier** for learning and testing.  
 ✔ The **AWS Well-Architected Framework** for best practices.  
 ✔ **Hands-on deployment** of a simple static website using AWS services.  
-
----
-
-## **Next Steps**  
-👉 Proceed to **Chapter 2: AWS Compute Services**, where you will learn how to launch and manage **EC2 instances, Auto Scaling, and Load Balancers**. 🚀
