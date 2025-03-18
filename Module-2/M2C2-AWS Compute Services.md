@@ -165,7 +165,3 @@ In this chapter, you learned:
 ✔ **Introduction to AWS Lambda and serverless computing.**  
 ✔ **Hands-on deployments for EC2, Auto Scaling, and Load Balancers.**  
 
----
-
-## **Next Steps**  
-👉 Proceed to **Chapter 3: AWS Networking Services**, where you will learn how to configure **VPC, subnets, route tables, and security groups**! 🚀
