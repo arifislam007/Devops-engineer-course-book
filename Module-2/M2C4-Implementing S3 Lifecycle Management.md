@@ -138,7 +138,3 @@ In this chapter, we covered:
 ✔ **Static Website Hosting:** Hosting simple websites using S3.  
 ✔ **Lifecycle Management:** Automating data movement to save costs.  
 
----
-
-## **Next Steps**  
-👉 Proceed to **Chapter 5: AWS Database Services**, where we explore **RDS, DynamoDB, and Aurora** for database management in AWS! 🚀
